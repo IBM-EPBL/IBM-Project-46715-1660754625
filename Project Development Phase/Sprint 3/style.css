@@ -1,0 +1,62 @@
+*
+{
+    padding: 0%;
+    margin: 0%;
+}
+.backg
+{
+    background-color:#37517e;
+    width: 100vw;
+    height: 100vh;
+    color: white;
+}
+.nav-bar
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    position: fixed;
+}
+.comname
+{
+    font-family:cursive;
+    font-size: x-large;
+}
+.navc
+{
+    background-color: transparent;
+    border:none;
+}
+.b2
+{
+    text-decoration: none;
+    color: white;
+}
+.b2:hover
+{
+    color: white;
+}
+#abt
+{
+    background-color: white;
+    color: #1b335d;
+}
+hr
+{
+    color: midnightblue;
+}
+hr:not([size]) 
+{
+    height: 10px;
+    width: 30%;
+    margin-left: 490px;
+}
+.webc
+{
+    background-color: #1b335d;
+    width: 100%;
+    height: auto;
+}
+.headi
+{
+    padding-top: 150px;
+}
